@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm Srilatha Kanuparthi 👋
 
-<!--
-**srilathakanuparthi-dev/srilathakanuparthi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 Aspiring Java Full Stack Developer
+📍 From Nellore, AP | Currently in KPHB, Hyderabad
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🔭 Currently building **QuickBite** - A Food Delivery Web App
+- 🌱 Learning **Java Full Stack Development**
+- 💡 Passionate about learning and building projects
+- 🎯 Goal: To become a Java Full Stack Developer in 2026
+
+### 🛠️ Tech Stack (What I Know)
+- **Languages:** Java, HTML, CSS, JavaScript
+- **Frontend:** React.js (Learning)
+- **Tools:** Git, GitHub, VS Code
+
+### 📂 My Projects
+- **🍔 QuickBite** - Food Delivery Platform UI
+    - Tech: React, HTML, CSS, JavaScript
+    - [View Code](https://github.com/srilathakanuparthi-dev/QuickBite)
+
+### 🌱 Currently Learning
+- Java Advanced Concepts
+- Spring Boot
+- Data Structures & Algorithms
+
+### 📫 Connect
+- Location: KPHB, Hyderabad (Hometown: Nellore, AP)
+
+---
+⭐ *From Nellore to KPHB, learning step by step!*
