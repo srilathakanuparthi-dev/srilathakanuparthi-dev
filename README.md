@@ -1,33 +1,54 @@
 # Hi there, I'm Srilatha Kanuparthi 👋
 
 ### 👩‍💻 Aspiring Java Full Stack Developer
-📍 From Nellore, AP | Currently in KPHB, Hyderabad
+
+📍 Nellore, AP | Currently in KPHB, Hyderabad
 
 ---
 
 ### 🚀 About Me
-- 🔭 Currently building **QuickBite** - A Food Delivery Web App
+
+- 🔭 Built and deployed **QuickBite** – A Full Stack Food Ordering Web Application
 - 🌱 Learning **Java Full Stack Development**
-- 💡 Passionate about learning and building projects
+- 💡 Passionate about learning and building real-world projects
 - 🎯 Goal: To become a Java Full Stack Developer in 2026
 
-### 🛠️ Tech Stack (What I Know)
+### 🛠️ Tech Stack
+
 - **Languages:** Java, HTML, CSS, JavaScript
-- **Frontend:** React.js (Learning)
+- **Frontend:** React.js, Vite
+- **Backend:** Java, Spring Boot
+- **Database:** TiDB Cloud
 - **Tools:** Git, GitHub, VS Code
+- **Deployment:** Vercel, Render
 
 ### 📂 My Projects
-- **🍔 QuickBite** - Food Delivery Platform UI
-    - Tech: React, HTML, CSS, JavaScript
-    - [View Code](https://github.com/srilathakanuparthi-dev/QuickBite)
+
+#### 🍔 QuickBite – Full Stack Food Ordering Application
+
+A food ordering web application with frontend, backend, database integration and cloud deployment.
+
+- **Frontend:** React.js, Vite
+- **Backend:** Java, Spring Boot
+- **Database:** TiDB Cloud
+
+🔗 [Live Demo](https://quick-bite-hazel-three.vercel.app)
+
+💻 [Frontend Source Code](https://github.com/srilathakanuparthi-dev/QuickBite)
+
+⚙️ [Backend Source Code](https://github.com/srilathakanuparthi-dev/QuickBite-Backend)
 
 ### 🌱 Currently Learning
-- Java Advanced Concepts
+
+- Advanced Java Concepts
 - Spring Boot
 - Data Structures & Algorithms
 
 ### 📫 Connect
+
+- GitHub: [srilathakanuparthi-dev](https://github.com/srilathakanuparthi-dev)
 - Location: KPHB, Hyderabad (Hometown: Nellore, AP)
 
 ---
+
 ⭐ *From Nellore to KPHB, learning step by step!*
